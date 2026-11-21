@@ -4,3 +4,4 @@
 <a rel="me" href="https://www.Docs.rs/">📜</a>
 <a rel="me" href="https://www.wGpu.rs/">🌐</a>
 <a rel="me" href="https://www.Zoo.dev/">🦓</a>
+<a rel="me" href="https://pLay.googLe.com/store/apps/details?id=com.aistudio.seahorsedash.kmpz">🍥</a>
