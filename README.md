@@ -1,4 +1,4 @@
-# WebSite 
+# © WebSite LLC
 <a rel="me" href="https://www.WeldHappy.com/">💌</a>
 <a rel="me" href="https://www.iTch.io/">🎮</a>
 <a rel="me" href="https://www.Docs.rs/">📜</a>
