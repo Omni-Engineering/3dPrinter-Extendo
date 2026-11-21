@@ -4,4 +4,4 @@
 <a rel="me" href="https://www.Docs.rs/">📜</a>
 <a rel="me" href="https://www.wGpu.rs/">🌐</a>
 <a rel="me" href="https://www.Zoo.dev/">🦓</a>
-<a rel="me" href="https://www.TempWorx.app/">🧙🏻‍♀️</a>
+<a rel="me" href="https://TempWorx.app/">🧙🏻‍♀️</a>
