@@ -1,7 +1,6 @@
 # WebSite 
-https://www.WeldHappy.com/
-https://www.iTch.io/
-https://www.Docs.rs/
-https://www.wGpu.rs/
-https://www.Zoo.dev/
 <a rel="me" href="https://www.WeldHappy.com/">💌</a>
+<a rel="me" href="https://www.iTch.io/">🎮</a>
+<a rel="me" href="https://www.Docs.rs/">📜</a>
+<a rel="me" href="https://www.wGpu.rs/">🌐</a>
+<a rel="me" href="https://www.Zoo.dev/">🦓</a>
